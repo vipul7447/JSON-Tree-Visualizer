@@ -4,7 +4,7 @@ import JsonInput from './components/JsonInput'
 import TreeCanvas from './components/TreeCanvas'
 import SearchBar from './components/SearchBar'
 import Controls from './components/Controls'
-import ThemeToggle from './components/themeToggle'
+import ThemeToggle from './components/ThemeToggle'
 import sampleJson from './sample.json'
 
 export default function App() {
